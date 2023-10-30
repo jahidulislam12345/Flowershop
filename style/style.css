@@ -1,0 +1,82 @@
+.banner-heading {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.btn {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    gap: 10px;
+    border: none;
+}
+
+.banner-container {
+    display: flex;
+    justify-content: space-between;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 40px;
+}
+
+.banner-img {
+    width: 635px;
+    height: 800px;
+    border-radius: 158px;
+    border: 1px solid #000;
+
+}
+
+/* about section */
+
+.about {
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.about-header {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.about-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.box {
+    margin-top: 100px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 240px;
+}
+
+.box-1{
+    margin-right: 149px;
+}
+
+.box-2{
+    margin-right: 146px;
+}
