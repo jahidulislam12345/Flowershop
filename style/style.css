@@ -126,4 +126,9 @@
     .flower{
         display: flex;
         justify-content: center;
+        gap: 24px;
     }
+
+    .flower-1, .flower-2, .flower-3{
+        padding: 78px;
+    } 
