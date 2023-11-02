@@ -83,14 +83,14 @@
 
     /* main section */
 
-    main{
+    main {
         max-width: 1920px;
         margin: 0px auto;
     }
 
     /* Our Featured Flowers */
 
-    .about{
+    .about {
         padding: 28px 178px;
         background: #FFF;
         margin: 173px 0;
@@ -122,13 +122,28 @@
 
 
     /* pink flower tree section */
-    
-    .flower{
+
+
+    .flower {
         display: flex;
         justify-content: center;
         gap: 24px;
     }
 
-    .flower-1, .flower-2, .flower-3{
+    .flower-1,
+    .flower-2,
+    .flower-3 {
         padding: 78px;
-    } 
+    }
+
+
+    .logo-section {
+        width: 1440px;
+        height: 320px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .logo-details{
+        margin-right: 10px;
+    }
