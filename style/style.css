@@ -257,13 +257,49 @@ body {
     margin-right: 16px;
 }
 
-.get-the-latest-deals-form input[type=button]{
+.get-the-latest-deals-form input[type=button] {
     color: #FFF;
     background-color: #E55473;
     padding: 20px 30px;
     height: 64px;
     border: 0;
     border-radius: 5px;
-    
 }
+
 /* Get The Latest Deals end */
+
+
+/* footer section start */
+
+.footer-container {
+    background: #111010;
+    text-align: center;
+    color: white;
+    margin-top: 120px;
+    padding: 120px 0;
+}
+
+.footer-heading {
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.footer-color {
+    color: #E55473;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.footer-all-right-sign {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* footer section end */
