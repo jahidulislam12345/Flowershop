@@ -213,9 +213,8 @@ body {
 /* Get The Latest Deals start */
 
 .get-the-latest-deals-container {
-    background-image: url("../Rectangle\ 9.png");
+    background-image: url("../img/Rectangle\ 9.png");
     height: 449px;
-    /* padding: 200px; */
     background-position: center;
     background-repeat: no-repeat;
 }
