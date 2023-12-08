@@ -56,8 +56,23 @@ body {
 
 
 
-.our-featured-flower{
+.our-featured-flower {
     max-width: 500px;
     text-align: center;
     margin: 150px auto;
+}
+
+
+.our-featured-flower-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+
+.our-featured-flower-description {
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
 }
