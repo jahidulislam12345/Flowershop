@@ -76,3 +76,13 @@ body {
     font-weight: 400;
 }
 /* our featured flower style end */
+
+
+/* flower section start */
+.flower-container {
+    display: flex;
+    justify-content: center;
+    margin: 48px 240px;
+    gap: 30px;
+}
+/* flower section end */
