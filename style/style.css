@@ -130,6 +130,7 @@ body {
     padding: 87px 175px;
     gap: 200px;
 }
+
 /* icon section end */
 
 
@@ -168,4 +169,29 @@ body {
 .off {
     color: #E55473;
 }
+
 /* sale section style end */
+
+
+
+/* instagram section start */
+.instagram-container {
+    max-width: 500px;
+    text-align: center;
+    margin: 100px auto 0;
+}
+
+.instagram-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.instagram-description {
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/* instagram section end */
