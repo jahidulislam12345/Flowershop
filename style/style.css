@@ -53,3 +53,11 @@ body {
 }
 
 /* header style end */
+
+
+
+.our-featured-flower{
+    max-width: 500px;
+    text-align: center;
+    margin: 150px auto;
+}
