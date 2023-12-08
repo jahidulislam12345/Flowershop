@@ -121,7 +121,6 @@ body {
 
 /* icon section start */
 .icon-container {
-    width: 1440px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -193,5 +192,16 @@ body {
     font-size: 18px;
     font-weight: 400;
 }
-
 /* instagram section end */
+
+
+
+
+/* img section start */
+.img-container {
+    margin: 100px 240px;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+/* img section end */
