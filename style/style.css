@@ -192,6 +192,7 @@ body {
     font-size: 18px;
     font-weight: 400;
 }
+
 /* instagram section end */
 
 
@@ -204,4 +205,65 @@ body {
     justify-content: center;
     gap: 24px;
 }
+
 /* img section end */
+
+
+
+/* Get The Latest Deals start */
+
+.get-the-latest-deals-container {
+    background-image: url("../Rectangle\ 9.png");
+    height: 449px;
+    /* padding: 200px; */
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.get-the-latest-deals-text {
+    text-align: center;
+    padding: 120px 250px 0;
+}
+
+
+.get-the-latest-deals-heading {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.get-the-latest-deals-description {
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.get-the-latest-deals-form {
+    text-align: center;
+    margin-top: 48px;
+}
+
+.get-the-latest-deals-form input[type="text"] {
+    width: 700px;
+    height: 64px;
+    padding: 20px;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0;
+    font-size: 16px;
+    font-weight: 400;
+    margin-right: 16px;
+}
+
+.get-the-latest-deals-form input[type=button]{
+    color: #FFF;
+    background-color: #E55473;
+    padding: 20px 30px;
+    height: 64px;
+    border: 0;
+    border-radius: 5px;
+    
+}
+/* Get The Latest Deals end */
